@@ -8,10 +8,10 @@
 - Paypal -> https://paypal.me/joshDelta
 ## SSTec Tutorials Youtube
 Special Thanks to SSTec Tutorials for making videos on GLoom.
-- Video 1
-https://youtu.be/R_0ErWoosFY
-- Video 2
-https://youtu.be/ZTQRT1rkS8w
+- ~~Video 1~~
+~~https://youtu.be/R_0ErWoosFY~~
+- ~~Video 2~~
+~~https://youtu.be/ZTQRT1rkS8w~~
 - Video 3
 https://youtu.be/ILXsZoSAajI
 Make Sure to Check Them Out!
@@ -23,7 +23,7 @@ Make Sure to Check Them Out!
 - For more info, please contact the email above.
 ### Install Gloom
 #### First ``git clone``
-  ``git clone https://github.com/joshDelta/Gloom-Framework.git``
+  ``git clone https://github.com/StreetSec/Gloom-Framework.git``
 #### Second ``cd``
   ``cd Gloom-Framework``
 #### Third ``install``
